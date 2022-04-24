@@ -1,6 +1,4 @@
-# CSC 421 Course Project 
-
-### CIFAR 100 Image Classification using Deep Learning
+# CIFAR 100 Image Classification using Deep Learning
 This repository contains the code for implementation of CIFAR-100 classification using various models such as Linear Classifier, Convolutional Neural Net (CNNs) from scratch, Residual Neural Nets (ResNet) from scratch, Pretrained ResNet-18 and Pretrained ResNet-50. 
 
 ## Requirements and How to use
